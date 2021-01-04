@@ -10,4 +10,6 @@
 
 **Installation** : Pour accéder au site, écrire cette url dans un moteur de recherche : http://62.210.83.115:11206/wordpress/
 
+**Emplacements** : Tous les documents demandés sont dans le fichier document.
+
 Réalisation du site par Mathis Pépin et Lucas Lemarié pour un projet de BTS SIO au Supavenir St Ursule à Caen.
