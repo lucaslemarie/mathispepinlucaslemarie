@@ -8,8 +8,7 @@
 
 **Phot de notre site** : ![Screenshot](document/site.png)
 
-**Installation** : Pour accéder au site, cliquer [ici](http://62.210.83.115:11206/wordpress/) :
-et allumer [ici](https://62.210.83.115:8006/) la VM 405 (Wordpress05).
+**Installation** : Pour [accéder au site](http://62.210.83.115:11206/wordpress/)
 
 **Emplacements** : Tous les documents demandés sont dans le fichier document ou en pdf sur ce lien : https://drive.google.com/drive/folders/1q48uLAlYqyi5o5WWEUcubfYgM6r_ls3M
 
