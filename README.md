@@ -6,10 +6,10 @@
 
 **Language** : HTML, CSS, PHP
 
-**Phot de notre site** : ![Screenshot](document/site.png)
+**Photo de notre site** : ![Screenshot](document/site.png)
 
 **Installation** : Pour [accéder au site](http://62.210.83.115:11206/wordpress/)
 
-**Emplacements** : Tous les documents demandés sont dans le fichier document ou en pdf sur ce lien : https://drive.google.com/drive/folders/1q48uLAlYqyi5o5WWEUcubfYgM6r_ls3M
+**Emplacements** : Tous les documents demandés sont dans le fichier [document](document/)
 
 Réalisation du site par Mathis Pépin et Lucas Lemarié dans le cadre d'un projet de BTS SIO au Supavenir St Ursule à Caen.
